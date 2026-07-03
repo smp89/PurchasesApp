@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PurchasesApp</string>
+    <string name="add_dialog_title">Добавить товар</string>
+    <string name="edit_dialog_title">Редактировать товар</string>
+</resources>
